@@ -16,6 +16,7 @@
 
   <modules>
     <module>TreeBasicOperation</module>
+    <module>AVLTreeBasicOperation</module>
   </modules>
 
 
