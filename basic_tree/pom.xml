@@ -17,6 +17,7 @@
   <modules>
     <module>TreeBasicOperation</module>
     <module>AVLTreeBasicOperation</module>
+      <module>DesignPattern</module>
   </modules>
 
 
