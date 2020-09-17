@@ -209,7 +209,7 @@ public class BasicOperation {
     /**
      * 根据前序遍历的结果和中序遍历的结果 重新构建二叉树
      * @param pre 前序遍历结果
-     * @param mid 后序遍历结果
+     * @param mid 中序遍历结果
      * @param <T>
      * @return
      */
